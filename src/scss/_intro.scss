@@ -1,0 +1,13 @@
+.intro {
+
+	&__title {
+		text-align: center;
+	}
+
+	&__description {
+		p {
+			columns: 100px 2;
+		}
+
+	}
+}
